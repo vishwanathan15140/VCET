@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.7
+torch>=2.1
+wfdb>=4.1          # only for the Hyser dataset
+onnx>=1.15         # only for edge export
+onnxruntime>=1.17  # only for edge export / latency benchmark
